@@ -1,0 +1,6 @@
+[submodule "nvim/.config/nvim"]
+	path = nvim/.config/nvim
+	url = https://github.com/LazyVim/LazyVim
+[submodule "zathura/.config/zathura"]
+	path = zathura/.config/zathura
+	url = https://github.com/dracula/zathura

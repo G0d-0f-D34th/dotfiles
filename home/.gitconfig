@@ -1,0 +1,6 @@
+[core]
+  editor = nvim
+  excludesFile = ~/dotfiles/gitignore
+[user]
+	email = lavishkhariwal@gmail.com
+	name = G0d-0f-D34th
